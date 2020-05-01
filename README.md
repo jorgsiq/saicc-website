@@ -1,6 +1,6 @@
 ![](header.png)
 
-Website development for the Academic Week of Computational Sciences / SAICC, event at Federal University of Rio Grande
+Website development for the Academic Week of Computational Sciences (SAICC), event at Federal University of Rio Grande
 
 ## Built With
 * HTML5
@@ -16,7 +16,7 @@ Website development for the Academic Week of Computational Sciences / SAICC, eve
 * **Adornete Martins** - [@adornetejr](https://github.com/adornetejr)
 * **Jorge Siqueira** - [@jorgsiq](https://github.com/jorgsiq)
 
-See also the list of [contributors](https://github.com/jorgsiq/saicc/graphs/contributors) who participated in this project
+See also the list of [contributors](https://github.com/jorgsiq/saicc-website/graphs/contributors) who participated in this project
 
 ## License
 
