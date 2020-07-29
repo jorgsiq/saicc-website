@@ -1,6 +1,6 @@
 ![](header.png)
 
-Website development for the Academic Week of Computational Sciences (SAICC), event at Federal University of Rio Grande
+Website development for the IX Semana Acadêmica das Ciências Computacionais (SAICC), event at Federal University of Rio Grande
 
 ## Built With
 * HTML5
