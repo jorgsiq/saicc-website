@@ -1,6 +1,6 @@
 ![](header.png)
 
-Landing Page Website developed for the IX Semana Acadêmica das Ciências Computacionais (SAICC), event at Universidade Federal do Rio Grande
+Landing Page Website developed for the IX Semana Acadêmica das Ciências Computacionais (SAICC), event at Universidade Federal do Rio Grande (FURG).
 
 ## Built With
 * HTML5
