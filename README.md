@@ -5,8 +5,8 @@ Website developed for the IX Semana Acadêmica das Ciências Computacionais (SAI
 ## Built With
 * HTML5
 * CSS3
-* Javascript Language
-* [Bootstrap](https://getbootstrap.com/) - Framework
+* Javascript
+* [Bootstrap](https://getbootstrap.com/)
 
 ## Last Version
 
