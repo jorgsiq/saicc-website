@@ -8,7 +8,7 @@
 
 ## Last Version
 
-**Aug 2019 / 3.6 Version** is stable
+**Aug 2019
 
 ## Authors
 * **Adornete Martins** - [@adornetejr](https://github.com/adornetejr)
